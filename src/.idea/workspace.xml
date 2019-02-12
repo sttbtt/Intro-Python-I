@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/dictionaries.py" line="37" mnemonic="5" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="529606cb-4884-4869-8295-daaec4d97472" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/comprehensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/comprehensions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,10 +22,26 @@
     <SUITE FILE_PATH="coverage/src$tuples.coverage" NAME="tuples Coverage Results" MODIFIED="1549925640156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$modules.coverage" NAME="modules Coverage Results" MODIFIED="1549919932587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/src$lists.coverage" NAME="lists Coverage Results" MODIFIED="1549923947279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/src$test.coverage" NAME="test Coverage Results" MODIFIED="1549925493962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$test.coverage" NAME="test Coverage Results" MODIFIED="1549991183980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/src$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1549947679911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/dictionaries.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cal.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <replaceStrings>
@@ -38,18 +58,18 @@
         <option value="$PROJECT_DIR$/modules.py" />
         <option value="$PROJECT_DIR$/printing.py" />
         <option value="$PROJECT_DIR$/lists.py" />
-        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/tuples.py" />
         <option value="$PROJECT_DIR$/slices.py" />
         <option value="$PROJECT_DIR$/comprehensions.py" />
+        <option value="$PROJECT_DIR$/dictionaries.py" />
+        <option value="$PROJECT_DIR$/test.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1667" />
-    <option name="height" value="1025" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -57,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -68,7 +89,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -89,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.comprehensions">
+  <component name="RunManager" selected="Python.test">
     <configuration name="comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="src" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,7 +145,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +189,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prime.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.comprehensions" />
         <item itemvalue="Python.slices" />
         <item itemvalue="Python.tuples" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.lists" />
       </list>
     </recent_temporary>
   </component>
@@ -220,37 +240,39 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549918569165</updated>
-      <workItem from="1549918570286" duration="10019000" />
+      <workItem from="1549918570286" duration="17269000" />
+      <workItem from="1549993124409" duration="28000" />
+      <workItem from="1550003654949" duration="181000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10019000" />
+    <option name="totallyTimeSpent" value="17478000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20695971" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.315508" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.21184371" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="4" />
+      <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.315508" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="2" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -288,13 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tuples.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
@@ -313,6 +328,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cal.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dictionaries.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
         </state>
       </provider>
     </entry>
