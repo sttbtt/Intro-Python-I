@@ -23,3 +23,4 @@ with open('foo.txt') as f:
 # YOUR CODE HERE
 f = open('bar.text', 'w')
 f.write('I once caught a bolt of lighting,\nCursed the day I let it go!\nFrom a Pearl Jam song, but a good tagline!')
+f.close()

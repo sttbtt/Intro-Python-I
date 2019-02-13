@@ -27,7 +27,8 @@ calendar.setfirstweekday(calendar.SUNDAY)
 now = datetime.now()
 
 while True:
-  m = input('Enter month: ') or now.month
+  m = sys.argv[1]
+  # m = input('Enter month: ') or now.month
   
   try:
     month = int(m)
@@ -38,7 +39,8 @@ while True:
     break
 
 while True:
-  y = input('Enter year: ') or now.year
+  y = sys.argv[2]
+  # y = input('Enter year: ') or now.year
 
   try:
     year = int(y)
