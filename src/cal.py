@@ -22,3 +22,31 @@ and does the following:
 import sys
 import calendar
 from datetime import datetime
+
+calendar.setfirstweekday(calendar.SUNDAY)
+now = datetime.now()
+
+while True:
+  m = input('Enter month: ') or now.month
+  
+  try:
+    month = int(m)
+  except ValueError:
+    print("This is not a valid month, please use numbers 1 - 12 in the form of MM")
+    exit()
+  else:
+    break
+
+while True:
+  y = input('Enter year: ') or now.year
+
+  try:
+    year = int(y)
+  except ValueError:
+    print("This is not a valid year, please use numbers in the form of YYYY")
+    exit()
+  else:
+    break
+
+print()
+print(calendar.month(year, month))
